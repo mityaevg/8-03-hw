@@ -57,25 +57,25 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
 
 ```
 
-`![1-Регистрация аккаунта на Github](img/github_profile_overview.png)`
+<kbd>![1-Регистрация аккаунта на Github](img/github_profile_overview.png)`</kbd>
 
-`![2-Создание репозитория](img/repo_assignment1_creation.png)`
+<kbd>![2-Создание репозитория](img/repo_assignment1_creation.png)</kbd>
 
-`![3-4-Клонирование репозитория](img/assignment1_repo_clone.png)`
+<kbd>![3-4-Клонирование репозитория](img/assignment1_repo_clone.png)</kbd>
 
-`![5-Первоначальная настройка Git](img/itinitial_repo_assignment1_config.png)`
+<kbd>![5-Первоначальная настройка Git](img/itinitial_repo_assignment1_config.png)</kbd>
 
-`![6-Результат выполнения команды git status](img/git_status_beginning.png)`
+<kbd>![6-Результат выполнения команды git status](img/git_status_beginning.png)</kbd>
 
-`![7-Редактирование README.md](img/README.md_step1_added.png)`
+<kbd>![7-Редактирование README.md](img/README.md_step1_added.png)</kbd>
 
-`![8-Повторное выполнение git status](img/git_status_modified.png)`
+<kbd>![8-Повторное выполнение git status](img/git_status_modified.png)</kbd>
 
-`![9-Результат git diff](img/git_diff_staged.png)`
+<kbd>![9-Результат git diff](img/git_diff_staged.png)</kbd>
 
-`![11-Еще раз выполняем git diff и git diff --staged](img/git_diff_staged_end.png)`
+<kbd>![11-Еще раз выполняем git diff и git diff --staged](img/git_diff_staged_end.png)</kbd>
 
-`![12-Создание коммита](img/first_commit_created.png)`
+<kbd>![12-Создание коммита](img/first_commit_created.png)</kbd>
 
 ---
 
