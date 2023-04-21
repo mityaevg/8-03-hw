@@ -56,7 +56,7 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git commit -m "first commit"
 mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
 
 ```
-
+`
 ![1-Регистрация аккаунта на Github](img/github_profile_overview.png)
 
 ![2-Создание репозитория](img/repo_assignment1_creation.png)
@@ -76,7 +76,7 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
 ![11-Еще раз выполняем git diff и git diff --staged](img/git_diff_staged_end.png)
 
 ![12-Создание коммита](img/first_commit_created.png)
-
+`
 ---
 
 ### Задание 2
