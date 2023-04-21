@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Git`" - `Митяев Григорий`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -26,24 +26,41 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. `Зарегистрировал аккаунт на github.com.`
+2. `Создал новый репозиторий assignment1 c файлом README.md`
+3. `Склонировал репозиторий assignment1 к себе на локальную ВМ`
+4. `Перешел в каталог с клоном репозитория assignment1`
+5. `Произвел первоначальную настройку Git с указанием моих ФИ и адреса эл.почты`
+6. `Выполнил команду git status`
+7. `Отредактировал файл README.md, добавив шаг 1`
+8. `Cтатус файла изменился на **modified**, добавил строки шаг 2, шаг 3, шаг 4`
+9. `Просмотр изменений с помощью команды git diff и get diff --staged`
+10. `Добавляем файл README.md из репозитория assignment1 в коммит командой git add README.md`
+11. `Снова выполняем команды git diff и git diff --staged` 
+12. `Делаем коммит git commit -m "first commit"`
+13. `Пушим внесенные изменения в глобальный репозиторий assignment1 в ветку main на Github` 
+
+Ссылка на коммит [**assignment1**](https://github.com/mityaevg/assignment1.git) 
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+mityaevg@debian-11:~/8-03-hw$ git clone https://github.com/mityaevg/assignment1.git
+mityaevg@debian-11:~/8-03-hw$ cd assignment1
+mityaevg@debian-11:~/8-03-hw/assignment1$ ls -la
+mityaevg@debian-11:~/8-03-hw/assignment1$ git config --global user.name "Grigoriy Mityaev"
+mityaevg@debian-11:~/8-03-hw/assignment1$ git config --global user.email gmitiaev@yandex.ru
+mityaevg@debian-11:~/8-03-hw/assignment1$ git status
+mityaevg@debian-11:~/8-03-hw/assignment1$ git diff
+mityaevg@debian-11:~/8-03-hw/assignment1$ git diff --staged
+mityaevg@debian-11:~/8-03-hw/assignment1$ git add README.md
+mityaevg@debian-11:~/8-03-hw/assignment1$ git diff
+mityaevg@debian-11:~/8-03-hw/assignment1$ git diff --staged
+mityaevg@debian-11:~/8-03-hw/assignment1$ git commit -m "first commit"
+mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
+
 ```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
-
 
 ---
 
