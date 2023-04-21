@@ -30,7 +30,7 @@
 4. Перешел в каталог с клоном репозитория assignment
 5. Произвел первоначальную настройку Git с указанием моих ФИ и адреса эл.почты
 6. Выполнил команду git status
-7. Отредактировал файл README.md, добавив шаг 1
+7. Отредактировал файл **README.md**, добавив **шаг 1**
 8. Cтатус файла изменился на **modified**, добавил строки **шаг 2**, **шаг 3**,**шаг 4**
 9. Просмотр изменений с помощью команды **git diff** и **get diff --staged**
 10. Добавляем файл **README.md** из репозитория **assignment** в коммит командой **git add README.md**
@@ -53,7 +53,7 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git add README.md
 mityaevg@debian-11:~/8-03-hw/assignment1$ git diff
 mityaevg@debian-11:~/8-03-hw/assignment1$ git diff --staged
 mityaevg@debian-11:~/8-03-hw/assignment1$ git commit -m "first commit"
-mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin main
+mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin main
 
 ```
 
