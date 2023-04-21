@@ -24,21 +24,21 @@
 
 ### Задание 1
 
-1. Зарегистрировал аккаунт на github.com
-2. Создал новый репозиторий assignment1 c файлом README.md
-3. Склонировал репозиторий assignment1 к себе на локальную ВМ
-4. Перешел в каталог с клоном репозитория assignment1
+1. Зарегистрировал аккаунт на **github.com**
+2. Создал новый репозиторий **assignment** c файлом **README.md**
+3. Склонировал репозиторий **assignment** к себе на локальную ВМ
+4. Перешел в каталог с клоном репозитория assignment
 5. Произвел первоначальную настройку Git с указанием моих ФИ и адреса эл.почты
 6. Выполнил команду git status
 7. Отредактировал файл README.md, добавив шаг 1
-8. Cтатус файла изменился на **modified**, добавил строки шаг 2, шаг 3, шаг 4
-9. Просмотр изменений с помощью команды git diff и get diff --staged
-10. Добавляем файл README.md из репозитория assignment1 в коммит командой git add README.md
-11. Снова выполняем команды git diff и git diff --staged
-12. Делаем коммит git commit -m "first commit"
-13. Пушим внесенные изменения в глобальный репозиторий assignment1 в ветку main на Github. 
+8. Cтатус файла изменился на **modified**, добавил строки **шаг 2**, **шаг 3**,**шаг 4**
+9. Просмотр изменений с помощью команды **git diff** и **get diff --staged**
+10. Добавляем файл **README.md** из репозитория **assignment** в коммит командой **git add README.md**
+11. Снова выполняем команды **git diff** и **git diff --staged**
+12. Создаем коммит с комментарием **git commit -m "first commit"**
+13. Пушим внесенные изменения в глобальный репозиторий **assignment** в ветку main на **Github**. 
 
-#### Ссылка на коммит [**assignment1**](https://github.com/mityaevg/assignment1.git) 
+#### Ссылка на коммит [**assignment**](https://github.com/mityaevg/assignment.git) 
 
 ```
 mityaevg@debian-11:~/8-03-hw$ git clone https://github.com/mityaevg/assignment1.git
@@ -53,7 +53,7 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git add README.md
 mityaevg@debian-11:~/8-03-hw/assignment1$ git diff
 mityaevg@debian-11:~/8-03-hw/assignment1$ git diff --staged
 mityaevg@debian-11:~/8-03-hw/assignment1$ git commit -m "first commit"
-mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
+mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin main
 
 ```
 
@@ -76,6 +76,8 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
 <kbd>![11-Еще раз выполняем git diff и git diff --staged](img/git_diff_staged_end.png)</kbd>
 
 <kbd>![12-Создание коммита](img/first_commit_created.png)</kbd>
+
+<kbd>![13-Пуш коммита в глобальный репозиторий](img/git_push_origin_main.png)
 
 ---
 
