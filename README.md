@@ -58,14 +58,23 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin origin/main
 ```
 
 ![1-Регистрация аккаунта на Github](img/github_profile_overview.png)
+
 ![2-Создание репозитория](img/repo_assignment1_creation.png)
+
 ![3-4-Клонирование репозитория](img/assignment1_repo_clone.png)
+
 ![5-Первоначальная настройка Git](img/itinitial_repo_assignment1_config.png)
+
 ![6-Результат выполнения команды git status](img/git_status_beginning.png)
+
 ![7-Редактирование README.md](img/README.md_step1_added.png)
+
 ![8-Повторное выполнение git status](img/git_status_modified.png)
+
 ![9-Результат git diff](img/git_diff_staged.png)
+
 ![11-Еще раз выполняем git diff и git diff --staged](img/git_diff_staged_end.png)
+
 ![12-Создание коммита](img/first_commit_created.png)
 
 ---
