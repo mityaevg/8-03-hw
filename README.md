@@ -133,7 +133,7 @@ mityaevg@debian-11:~/8-03-hw/assignment$ git push origin main
 
 <kbd>![2-Создали test.sh](img/3_02_test.sh_created.png)</kbd>
 
-<kbd>![3-Подтверждение создания test.sh](img/3_02_test.sh_created1.png)</kbd>
+<kbd>![3-Подтверждение создания test.sh](img/3_02_test.sh_created_1.png)</kbd>
 
 <kbd>![4-Добавление строк в test.sh](img/3_03_test.sh_updated.png)</kbd>
 
