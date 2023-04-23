@@ -83,26 +83,24 @@ mityaevg@debian-11:~/8-03-hw/assignment1$ git push origin main
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+1. Создал файл **.gitignore** и проверил его статус сразу после создания.
+2. Добавим **.gitignore** 
+3. Пропишем игнорирование файлов с расширением **.pyc** и всех файлов в директории **cache**
+4. Создадим коммит и сделаем пуш в глобальный репозиторий.
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+mityaevg@debian-11:~/8-03-hw/assignment$ touch .gitignore
+mityaevg@debian-11:~/8-03-hw/assignment$ git status
+mityaevg@debian-11:~/8-03-hw/assignment$ git commit -a -m ".gitignore created and set to ignore .pyc file and contents of cache folder"
+mityaevg@debian-11:~/8-03-hw/assignment$ git push origin main
+
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+<kbd>![1-Создание .gitignore и проверка статуса файла](img/2_01_gitignore.png)</kbd>
 
+<kbd>![2-Настройка .gitignore](img/2_03_gitignore_config.png)</kbd>
+
+<kbd>![3-Создание коммита и пуш в глобальный репозиторий](img/2_03_commit_created_pushed.png)
 
 ---
 
