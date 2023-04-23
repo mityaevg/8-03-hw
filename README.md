@@ -102,6 +102,8 @@ mityaevg@debian-11:~/8-03-hw/assignment$ git push origin main
 
 <kbd>![3-Создание коммита и пуш в глобальный репозиторий](img/2_03_commit_created_pushed.png)
 
+#### Ссылка на коммит [**assignment**](https://github.com/mityaevg/assignment.git)
+
 ---
 
 ### Задание 3
