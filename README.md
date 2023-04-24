@@ -38,7 +38,7 @@
 12. Создаем коммит с комментарием **git commit -m "first commit"**
 13. Пушим внесенные изменения в глобальный репозиторий **assignment** в ветку main на **Github**. 
 
-#### Ссылка на коммит [**assignment**](https://github.com/mityaevg/assignment.git) 
+#### Ссылка на коммит [**5c7d27d**](https://github.com/mityaevg/assignment/commit/5c7d27dfaa00fbf02e29cced5a6ab5a5c060df27) 
 
 ```
 mityaevg@debian-11:~/8-03-hw$ git clone https://github.com/mityaevg/assignment1.git
@@ -102,7 +102,7 @@ mityaevg@debian-11:~/8-03-hw/assignment$ git push origin main
 
 <kbd>![3-Создание коммита и пуш в глобальный репозиторий](img/2_03_commit_created_pushed.png)
 
-#### Ссылка на коммит [**assignment**](https://github.com/mityaevg/assignment.git)
+#### Ссылка на коммит [**9e45964**](https://github.com/mityaevg/assignment/commit/9e45964aaecebf3d3e6b6d51c35aa954a682bf41)
 
 ---
 
